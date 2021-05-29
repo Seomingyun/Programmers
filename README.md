@@ -12,3 +12,8 @@ https://programmers.co.kr/learn/challenges 의 문제 풀이
 |로또의 최고 순위와 최저 순위 |[로또의 최고 순위와 최저 순위 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77484)|[로또의 최고 순위와 최저 순위 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.ipynb)|
 |3진법 뒤집기|[3진법 뒤집기 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/68935)|[3진법 뒤집기 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.ipynb)|
 |예산|[예산 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%98%88%EC%82%B0.ipynb)|
+<br><br><br>
+## **Lv.1**
+|문제|링크|코드|
+|------|---|---|
+||[캐시 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17680)|[캐시 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.2/%EC%BA%90%EC%8B%9C.ipynb)|
