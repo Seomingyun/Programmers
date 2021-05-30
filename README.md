@@ -12,8 +12,10 @@ https://programmers.co.kr/learn/challenges 의 문제 풀이
 |로또의 최고 순위와 최저 순위 |[로또의 최고 순위와 최저 순위 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77484)|[로또의 최고 순위와 최저 순위 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.ipynb)|
 |3진법 뒤집기|[3진법 뒤집기 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/68935)|[3진법 뒤집기 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/3%EC%A7%84%EB%B2%95_%EB%92%A4%EC%A7%91%EA%B8%B0.ipynb)|
 |예산|[예산 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%98%88%EC%82%B0.ipynb)|
-
+|크레인 인형뽑기 문제|[크레인 인형뽑기 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/64061)|[크레인 인형뽑기 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8_%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0_%EB%AC%B8%EC%A0%9C.ipynb)|
+|폰켓몬|[폰켓몬 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/1845)|[폰켓몬 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%ED%8F%B0%EC%BC%93%EB%AA%AC.ipynb)|
 ## **Lv.2**
 |문제|링크|코드|
 |------|---|---|
 |캐시|[캐시 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17680)|[캐시 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.2/%EC%BA%90%EC%8B%9C.ipynb)|
+
