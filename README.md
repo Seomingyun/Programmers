@@ -14,6 +14,7 @@ https://programmers.co.kr/learn/challenges 의 문제 풀이
 |예산|[예산 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%98%88%EC%82%B0.ipynb)|
 |크레인 인형뽑기 문제|[크레인 인형뽑기 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/64061)|[크레인 인형뽑기 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%ED%81%AC%EB%A0%88%EC%9D%B8_%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0_%EB%AC%B8%EC%A0%9C.ipynb)|
 |폰켓몬|[폰켓몬 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/1845)|[폰켓몬 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%ED%8F%B0%EC%BC%93%EB%AA%AC.ipynb)|
+|약수의 개수와 덧셈|[약수의 개수와 덧셈 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77884)|[약수의 개수와 덧셈 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.ipynb)|
 ## **Lv.2**
 |문제|링크|코드|
 |------|---|---|
