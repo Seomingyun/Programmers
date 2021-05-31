@@ -22,3 +22,4 @@ https://programmers.co.kr/learn/challenges 의 문제 풀이
 |------|---|---|
 |캐시|[캐시 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/17680)|[캐시 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.2/%EC%BA%90%EC%8B%9C.ipynb)|
 |더 맵게|[더 맵게 문제 링크](https://colab.research.google.com/drive/1Skk_XuKXGLM7t5bhyB018OuG5EVYIO9e#scrollTo=UqnIvJGeh59o)|[더 맵게 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.2/%EB%8D%94_%EB%A7%B5%EA%B2%8C.ipynb)|
+|124 나라의 숫자|[124 나라의 숫자 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12899)|[124 나라의 숫자 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.2/124_%EB%82%98%EB%9D%BC%EC%9D%98_%EC%88%AB%EC%9E%90.ipynb)|
