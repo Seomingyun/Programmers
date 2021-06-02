@@ -17,6 +17,7 @@ https://programmers.co.kr/learn/challenges 의 문제 풀이
 |약수의 개수와 덧셈|[약수의 개수와 덧셈 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/77884)|[약수의 개수와 덧셈 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.ipynb)|
 |내적|[내적 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/70128)|[내적 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EB%82%B4%EC%A0%81.ipynb)|
 |음양 더하기|[음양 더하기 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/76501)|[음양 더하기 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%9D%8C%EC%96%91_%EB%8D%94%ED%95%98%EA%B8%B0.ipynb)|
+|실패율|[실패율 문제 링크](https://programmers.co.kr/learn/courses/30/lessons/42889?language=python3)|[실패율 문제 풀이](https://github.com/Seomingyun/Programmers/blob/main/Lv.1/%EC%8B%A4%ED%8C%A8%EC%9C%A8.ipynb)|
 ## **Lv.2**
 |문제|링크|코드|
 |------|---|---|
